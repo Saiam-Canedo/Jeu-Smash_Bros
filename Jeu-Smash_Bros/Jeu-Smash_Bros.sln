@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jeu-Smash_Bros", "Jeu-Smash_Bros\Jeu-Smash_Bros.csproj", "{E5A57316-21E8-4CA3-A537-E82DB4E68AB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5A57316-21E8-4CA3-A537-E82DB4E68AB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A57316-21E8-4CA3-A537-E82DB4E68AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A57316-21E8-4CA3-A537-E82DB4E68AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A57316-21E8-4CA3-A537-E82DB4E68AB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E550A189-62A1-453D-8E97-72553A336FA2}
+	EndGlobalSection
+EndGlobal

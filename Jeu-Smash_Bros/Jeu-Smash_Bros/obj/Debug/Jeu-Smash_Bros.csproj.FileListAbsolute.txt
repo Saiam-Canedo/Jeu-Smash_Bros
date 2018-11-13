@@ -1,0 +1,10 @@
+C:\Users\Canedosa\source\repos\Jeu-Smash_Bros\Jeu-Smash_Bros\bin\Debug\Jeu-Smash_Bros.exe.config
+C:\Users\Canedosa\source\repos\Jeu-Smash_Bros\Jeu-Smash_Bros\bin\Debug\Jeu-Smash_Bros.exe
+C:\Users\Canedosa\source\repos\Jeu-Smash_Bros\Jeu-Smash_Bros\bin\Debug\Jeu-Smash_Bros.pdb
+C:\Users\Canedosa\source\repos\Jeu-Smash_Bros\Jeu-Smash_Bros\obj\Debug\Jeu-Smash_Bros.csprojResolveAssemblyReference.cache
+C:\Users\Canedosa\source\repos\Jeu-Smash_Bros\Jeu-Smash_Bros\obj\Debug\Jeu_Smash_Bros.Form1.resources
+C:\Users\Canedosa\source\repos\Jeu-Smash_Bros\Jeu-Smash_Bros\obj\Debug\Jeu_Smash_Bros.Properties.Resources.resources
+C:\Users\Canedosa\source\repos\Jeu-Smash_Bros\Jeu-Smash_Bros\obj\Debug\Jeu-Smash_Bros.csproj.GenerateResource.cache
+C:\Users\Canedosa\source\repos\Jeu-Smash_Bros\Jeu-Smash_Bros\obj\Debug\Jeu-Smash_Bros.csproj.CoreCompileInputs.cache
+C:\Users\Canedosa\source\repos\Jeu-Smash_Bros\Jeu-Smash_Bros\obj\Debug\Jeu-Smash_Bros.exe
+C:\Users\Canedosa\source\repos\Jeu-Smash_Bros\Jeu-Smash_Bros\obj\Debug\Jeu-Smash_Bros.pdb
